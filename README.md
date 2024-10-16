@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreas-SB
-- 👀 I’m interested in videogames and anime.
+- 👀 I’m interested in videogames and anime
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on school projects
 
